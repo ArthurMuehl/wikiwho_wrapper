@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: WikiWho-Wrapper
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Roberto
+    family-names: Ulloa
+    email: roberto.ur@gmail.com
+    affiliation: University of Konstanz
+    orcid: 'https://orcid.org/0000-0002-9870-5505'
+identifiers:
+  - type: url
+    value: 'https://github.com/gesiscss/wikiwho_wrapper'
+repository-code: 'https://github.com/gesiscss/wikiwho_wrapper'
+license: MIT
